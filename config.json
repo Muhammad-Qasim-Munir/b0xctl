@@ -1,0 +1,9 @@
+{
+  "instances": {
+    "b0x": {
+      "instance_id": "i-xxxxxxxxxxxxxxxxx",
+      "region": "us-east-2"
+    }
+  },
+  "default_instance": "b0x"
+} 
